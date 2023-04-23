@@ -41,7 +41,7 @@ will get changed to:
 
 1) Install this module into Foundry using the following manifest URL:
 
-  > 'https://github.com/Quoblix/Volumen-Operis/releases/latest/download/module.json'
+  > `https://github.com/Quoblix/Volumen-Operis/releases/latest/download/module.json`
   
 2) Pull macros and roll tables from these new compendiums
 
