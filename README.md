@@ -27,9 +27,7 @@ Updates selected tokens to have a random name from the "Skeleton Names" roll tab
 3. Edit the new macro and update the rolltable that the macro should use
 
 ## Random Occupation
-Updates selected tokens to have a random occupation that will show up after their name. 
-
-So for example, a token with the name:
+Updates selected tokens to have a random occupation that will show up after their name. So for example, a token with the name:
 
   > Quoblix Hillbilus
 
