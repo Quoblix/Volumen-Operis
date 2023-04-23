@@ -1,6 +1,7 @@
 # Volumen-Operis 
 
 A collection of Foundry VTT macros and the roll tables that support them. Here are the list of macros.
+
 ---
 
 ### > Randomize Monster HP 
@@ -35,6 +36,7 @@ So for example, a token with the name:
 will get changed to:
 
   > Quoblix Hillbilus, Goblintologist
+
 ---
 
 # Instructions
