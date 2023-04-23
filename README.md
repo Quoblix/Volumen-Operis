@@ -5,7 +5,7 @@ A collection of Foundry VTT macros and the roll tables that support them. Here a
 ---
 
 ## Randomize Monster HP
-Updates selected tokens to have a random min/max value for their HP based on their Hit Point Formula. If no formula is stored with the token, then no update to HP is made.
+Updates selected tokens to have a random max value for their HP based on their Hit Point Formula. If no formula is stored with the token, then no update to HP is made.
 
 ## Name Male NPCs
 Updates selected tokens to have a random MALE first and last name from roll tables. To update the list of available names, edit the following roll tables:
