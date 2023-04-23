@@ -14,11 +14,18 @@
     }
   ],
   "packs": [
+   {
+      "label": "Tables (Volumen Operis)",
+      "type": "RollTable",
+      "name": "tables-volumen-operis",
+      "path": "packs/tables-volumen-operis.db",
+      "system": "dnd5e"
+    },
     {
-      "label": "DoIP Player Maps",
-      "type": "Scene",
-      "name": "doip-player-maps",
-      "path": "packs/doip-player-maps.db",
+      "label": "Macros (Volumen Operis)",
+      "type": "Macro",
+      "name": "macros-volumen-operis",
+      "path": "packs/macros-volumen-operis.db",
       "system": "dnd5e"
     }
   ],
