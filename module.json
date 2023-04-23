@@ -1,0 +1,29 @@
+{
+  "id": "Volumen-Operis",
+  "title": "Quoblix Volumen Operis",
+  "description": "A collection of macros for Foundry VTT",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "Quoblix"
+    }
+  ],
+  "packs": [
+    {
+      "label": "DoIP Player Maps",
+      "type": "Scene",
+      "name": "doip-player-maps",
+      "path": "packs/doip-player-maps.db",
+      "system": "dnd5e"
+    }
+  ],
+  "initiative": "1d20",
+  "url": "https://github.com/Quoblix/Volumen-Operis",
+  "manifest": "https://github.com/Quoblix/Volumen-Operis/releases/latest/download/module.json",
+  "download": "https://github.com/Quoblix/Volumen-Operis/releases/latest/download/Volumen-Operis.zip"
+}
