@@ -1,7 +1,5 @@
 # Volumen-Operis 
-*(Scroll of Labor)*
-
-A collection of Foundry VTT macros and roll tables that support them. Here are the list of macros.
+A collection of Foundry VTT macros and the roll tables that support them. Here are the list of macros.
 
 ### Randomize Monster HP
 Updates selected tokens to have a random min/max value for their HP based on their Hit Point Formula. If no formula is stored with the token, then no update to HP is made.
@@ -37,7 +35,7 @@ will get changed to:
   > Quoblix Hillbilus, Goblintologist
 
 # Instructions
-1. Install this module using the following manfiest URL in Foundry VTT
+1. Install this module into Foundry using the following manifest URL:
 
   > URL to use
   
