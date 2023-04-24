@@ -2,7 +2,7 @@
   "id": "Volumen-Operis",
   "title": "Quoblix Volumen Operis",
   "description": "A collection of macros for Foundry VTT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "10",
     "verified": "10",

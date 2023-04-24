@@ -35,6 +35,9 @@ will get changed to:
 
   > Quoblix Hillbilus, Goblintologist
 
+## GM Private Roll Table
+Set up a macro for a roll table where it will send a private chat to the GM with the results.
+
 ---
 
 # Instructions
